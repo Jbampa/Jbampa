@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjc0OWhsdjh1bXU4ODI1aGI5cTU4M2VwN2p4N2xib25uOWZubXVnOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/v3Rb7dGuvkmaRi6qei/giphy.gif" width="180" alt="Cat coding meme"/>
-  <h1>Heeeey, I'm Jonathan</h1>
+  <h1>Heyy, I'm Jonathan</h1>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBveHFpbDc4NnZscHp2am5raDBwZmY1eXNrMWo4dTNudjdkbWtibyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RMwgs5kZqkRyhF24KK/giphy.gif"/>
   <p><em>Coding works better with coffee in hand.</em></p>
 </div>
 
