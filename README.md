@@ -3,7 +3,13 @@
   <h1>Heeeey, I'm Jonathan</h1>
   <p><em>Coding works better with coffee in hand.</em></p>
 </div>
----
+
+<div align="center" style="display:flex; align-items:center; justify-content:center; overflow:hidden;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWZrMTc1anpvbTVlbWwzOHlhcHJ3N3hpcjJ4dTFnczF2M284NmZxMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h4F1B5OmmoMi4/giphy.gif"
+       alt="gif"
+       style="width:auto; max-width:100%; display:block;" />
+</div>
+
 
 ### 👨‍💻 About Me
 
@@ -44,6 +50,10 @@ Brazilian-American 🇧🇷🇺🇸 **Fullstack Developer** focused on building 
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHM3OXRmNXowY2wzcDJhaTc1ejN2OHBiNWFsZTBvYmxoY2FtOWtmeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/b21HcSrrBu8pi/giphy.gif" alt="Spike Spiegel relaxando" width="500">
+</p>
 
 ### 📫 Contact
 
