@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <h1>Heyy, I'm Jonathan</h1>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBveHFpbDc4NnZscHp2am5raDBwZmY1eXNrMWo4dTNudjdkbWtibyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RMwgs5kZqkRyhF24KK/giphy.gif"/>
   <p><em>Coding works better with coffee in hand.</em></p>
 </div>
 
