@@ -17,7 +17,6 @@ Brazilian-American 🇧🇷🇺🇸 **Fullstack Developer** focused on building 
 - 📍 Split between **Worcester, MA** and **Maringá, Brazil**
 - 🔭 Working on **[blog-api-node](https://github.com/Jbampa/blog-api-node)** – a REST API for a full-featured blog
 - 🌱 Learning more about system design, testing, and cloud setups
-- 💬 Ask me about Node.js, TypeScript, Prisma, React, or anything web-dev related
 
 ---
 
