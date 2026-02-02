@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Heyy, I'm Jonathan</h1>
-  <p><em>Coding works better with coffee in hand.</em></p>
+  <p><em>I love coffeeeeeeeeeeeeeeeeeeeeeeeeeeeee</em></p>
 </div>
 
 <div align="center" style="display:flex; align-items:center; justify-content:center; overflow:hidden;">
